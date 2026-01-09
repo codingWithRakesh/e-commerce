@@ -1,0 +1,15 @@
+client/node_modules/
+client/dist/
+client/.env
+
+main_server/node_modules/
+main_server/dist/
+main_server/.env
+
+util_server/node_modules/
+util_server/dist/
+util_server/.env
+
+security_server/.env
+
+ai_server/.env
